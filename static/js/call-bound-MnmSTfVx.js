@@ -1,0 +1,1 @@
+import{r as u}from"./get-intrinsic-BwtPgZzW.js";import{r as a}from"./call-bind-apply-helpers-CEGoAvTb.js";var i,e;function v(){if(e)return i;e=1;var t=u(),o=a(),p=o([t("%String.prototype.indexOf%")]);return i=function(n,f){var r=t(n,!!f);return typeof r=="function"&&p(n,".prototype.")>-1?o([r]):r}}export{v as r};
